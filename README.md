@@ -1,4 +1,4 @@
-#### Numerical aptitude test  
+#### Numerical aptitude test 
 
 ### Question .0
 ![](StaticQuestion/Capture.PNG)
