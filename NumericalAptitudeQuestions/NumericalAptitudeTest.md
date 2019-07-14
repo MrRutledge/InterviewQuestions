@@ -1,7 +1,7 @@
 #### Numerical aptitude test 
 
 ### Question .0
-![](StaticQuestion/Capture.png)
+![](StaticQuestion/Capture.PNG)
 ### Question .1
 ![](StaticQuestion/Capture01.png)
 ### Question .2
